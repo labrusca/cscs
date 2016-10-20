@@ -1,5 +1,8 @@
 Contributing
 ============
+
+[labrusca](https://labrusca.github.io) - translate to Chinese.
+
 Do you have a suggestion? Open a pull request or a issue.
 
 ## Guidelines

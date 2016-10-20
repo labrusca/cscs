@@ -1,18 +1,20 @@
 <p align="center">
     <img width="300" src="https://rawgit.com/SalGnt/cscs/master/media/logo.svg" alt="Coding Style Conventions and Standards">
 </p>
-
+编程风格约定及其标准
 Coding Style Conventions and Standards
 ======================================
 
+编程风格约定和标准的展示列表
 A curated list of _Coding Style Conventions and Standards_.
 
 
+目录
 Table of Contents
 -----------------
 
-- [Programming Languages](#programming-languages)
-- [Miscellaneous](#miscellaneous)
+- [编程语言](#编程语言)
+- [杂项](#杂项)
 
 
 Programming Languages
@@ -31,7 +33,7 @@ Programming Languages
 * [C# Coding Standards and Naming Conventions](http://www.dofactory.com/reference/csharp-coding-standards).
 * **[Microsoft C# Coding Conventions (C# Programming Guide)](https://msdn.microsoft.com/en-us/library/ff926074.aspx)**.
 * [Mono Coding Guidelines](http://www.mono-project.com/community/contributing/coding-guidelines/).
-* [The Official raywenderlich.com C# Style Guide](https://github.com/raywenderlich/c-sharp-style-guide) - C# Style Guide for Unity Tutorials.
+* [The Official raywenderlich.com C# Style Guide](https://github.com/raywenderlich/c-sharp-style-guide) - 关于Unity教程的C#风格指南.
 
 ### C++
 * [Apache OpenOffice Cpp Coding Standards](https://wiki.openoffice.org/wiki/Cpp_Coding_Standards)
@@ -42,7 +44,7 @@ Programming Languages
 * [SEI CERT C++ Coding Standard](https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637).
 
 ### Clojure
-* [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language.
+* [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) - Clojure编程语言的社区编程风格指南.
 
 ### Common Lisp
 * [Ariel Networks Common Lisp Style Guide](http://labs.ariel-networks.com/cl-style-guide.html).
@@ -55,7 +57,7 @@ Programming Languages
 * **[Dart Style Guide](https://www.dartlang.org/articles/style-guide/)**.
 
 ### Elixir
-* [The Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide) - A community driven style guide for Elixir.
+* [The Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide) - Elixir的社区驱动风格编程指南.
 
 ### Erlang
 * [Erlang Coding Standards & Guidelines](https://github.com/inaka/erlang_guidelines) - Inaka's Erlang Coding Guidelines.
@@ -204,6 +206,7 @@ Programming Languages
 * [Google XML Document Format Style Guide](https://google.github.io/styleguide/xmlstyle.html).
 
 
+杂项
 Miscellaneous
 ------------
 
@@ -215,11 +218,16 @@ Miscellaneous
 * [Git Style Guide](https://github.com/jonathanong/git-style-guide) - Personal guide for using git with GitHub.
 
 
+贡献
 Contributing
 ------------
+欢迎贡献者！请到[CONTRIBUTING](CONTRIBUTING.md)文件了解更多细节
 Contributions are welcome! Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
+[labrusca](https://labrusca.github.io) - 中文翻译.
 
+开源许可证
 License
 -------
+以上列表由[Salvatore Gentile](https://twitter.com/_sgentile)创建，在**The MIT License (MIT)**下发布。
 This list was created by [Salvatore Gentile](https://twitter.com/_sgentile) and is released under **The MIT License (MIT)**.
